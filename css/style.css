@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	font-family: sans-serif;
+}
+header{
+	background-color: rgb(206,36,1);
+	box-shadow: 4px 4px #7f3100;
+}
+header img{
+	height: : 80px;	
+	float: left;
+}
+h1{
+	color: #fff;
+	font-size: 48px;
+	padding: 20px;
+	text-shadow: 1px 3px 2px #7f3100;
+}
+section	{
+	padding: 40px;
+	margin: 40px
+		background-image: url(..//img/facitec.png);
+	background: no-repeat;
+	min-height: 500px;
+	background-size: cover;
+}
+section article{
+background-color: rgba(255,255,255,0.6);
+padding: 50px
+min-height: 400px;
+}
